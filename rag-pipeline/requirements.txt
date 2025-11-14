@@ -1,0 +1,14 @@
+langchain
+langgraph
+pinecone-client
+boto3
+fastapi
+uvicorn
+pydantic
+python-dotenv
+pypdf
+beautifulsoup4
+tiktoken
+structlog
+pytest
+mlflow
