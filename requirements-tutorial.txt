@@ -1,0 +1,14 @@
+# Requirements for Basic Multimodal RAG Pipeline Tutorial
+# Install with: pip install -r requirements_basic_rag.txt
+
+# Core dependencies
+unstructured[pdf]>=0.10.0
+langchain-core>=0.1.0
+langchain-chroma>=0.1.0
+langchain-openai>=0.0.5
+python-dotenv>=1.0.0
+
+# Optional: For local embeddings instead of OpenAI
+# langchain-community>=0.0.20
+# sentence-transformers>=2.2.0
+
