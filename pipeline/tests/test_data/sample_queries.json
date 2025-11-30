@@ -1,0 +1,13 @@
+[
+    {
+        "query": "What is RAG?",
+        "expected_answer": "RAG stands for Retrieval-Augmented Generation, a technique that combines retrieval and generation.",
+        "relevant_docs": ["doc1", "doc2"]
+    },
+    {
+        "query": "How do vector stores work?",
+        "expected_answer": "Vector stores store document embeddings and enable fast similarity search.",
+        "relevant_docs": ["doc3"]
+    }
+]
+
